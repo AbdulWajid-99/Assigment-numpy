@@ -1,2 +1,2 @@
-# Assigment-numpy
-Numpy
+# AI Q2 Assigment
+
